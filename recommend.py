@@ -1,8 +1,8 @@
 import streamlit as st
 # import joblib
 import pandas as pd
-pip install tensorflow
-from tensorflow import keras
+# pip install tensorflow
+# from tensorflow import keras
 from anime_rec import New_User
 
 # load your saved model
